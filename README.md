@@ -1,6 +1,7 @@
 # -Blinkit-Sales-Data-Analysis-Portfolio
 ![IMG-20250531-WA0004(1) jpg](https://github.com/user-attachments/assets/4327ab18-abb2-43c1-ab2d-9b32eb128742)
 
+
 ### 📌 Project Overview
 
 This project analyzes Blinkit’s online grocery sales data to understand product demand, revenue trends, discount impact, and delivery performance using **Python, SQL, and Power BI**.
